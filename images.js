@@ -12,46 +12,46 @@ export const imagesArr = [
     {
         id: 2,
         name: "flower",
-        sry: "./assets/flower.jpg"
+        src: "./assets/flower.jpg"
     },
     {
         id: 3,
         name: "flower",
-        sry: "./assets/flower.jpg"
+        src: "./assets/flower.jpg"
     },
     {
         id: 4,
         name: "plant",
-        sry: "./assets/plant.jpg"
+        src: "./assets/plant.jpg"
     },
     {
         id: 5,
         name: "plant",
-        sry: "./assets/plant.jpg"
+        src: "./assets/plant.jpg"
     },
     {
         id: 6,
         name: "rose",
-        sry: "./assets/rose.jpg"
+        src: "./assets/rose.jpg"
     },
     {
         id: 7,
         name: "rose",
-        sry: "./assets/rose.jpg"
+        src: "./assets/rose.jpg"
     },
     {
         id: 8,
         name: "sakura",
-        sry: "./assets/sakura.jpg"
+        src: "./assets/sakura.jpg"
     },
     {
         id: 9,
         name: "dahlia",
-        sry: "./assets/dahlia.jpg"
+        src: "./assets/dahlia.jpg"
     },
     {
         id: 10,
         name: "dahlia",
-        sry: "./assets/dahlia.jpg"
+        src: "./assets/dahlia.jpg"
     }
 ]
