@@ -45,6 +45,11 @@ export const imagesArr = [
         src: "./assets/sakura.jpg"
     },
     {
+        id: 8,
+        name: "sakura",
+        src: "./assets/sakura.jpg"
+    },
+    {
         id: 9,
         name: "dahlia",
         src: "./assets/dahlia.jpg"
